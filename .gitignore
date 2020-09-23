@@ -1,0 +1,10 @@
+*.DS_Store
+*.ipynb_checkpoints
+*.vscode
+*/ml-25m/
+*.docx
+*.csv
+*.txt
+*.csv.icloud
+*.png
+.DS_Store
